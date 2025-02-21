@@ -19,11 +19,8 @@ To clone the site we haven’t used any fancy UI library, instead of that, we st
 5. Json server
 6. localStorage
    <br>
-
-                                            pages overview
+                                        
                                             
-                                            
-<br>
 
            🔘 Landing page 
 
