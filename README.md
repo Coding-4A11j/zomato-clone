@@ -20,26 +20,6 @@ To clone the site we haven’t used any fancy UI library, instead of that, we st
 6. localStorage
    <br>
 
-                                             Functionality:
-
-🔘Landing page <br>
-    &nbsp;&nbsp;&nbsp;<span> Created by <a href = "https://github.com/karthikreddy552" > Karthik reddy </a> </span><br>
-
-🔘 LogIn and SignUp functionality. <br>
-    &nbsp;&nbsp;<span> Created by <a href = "https://github.com/Dheeraj-2205" > Dheeraj joshi</a> </span><br>
-
-🔘 Add Restaurent functionality. <br>
-    &nbsp;&nbsp;&nbsp;<span> Created by <a href = "https://github.com/yug0231" > Yugal nemade </a> </span><br>
-
-🔘 Product Page with lots of filtering and Sorting options with add-to-cart functionality.<br>
-    &nbsp;&nbsp;<span> Created by <a href = "https://github.com/AnkitRana26"> Ankit rana</a> </span><br>
-
-🔘 Cart page to manage product lists that user wants to buy.<br>
-     &nbsp;&nbsp;<span> Created by <a href = "https://github.com/Rajatsinha05"> Rajat sinha </a> </span><br>
-
-🔘 Checkout page calculates the shipping prices dynamically and the Payment page with many payment options.<br>
-&nbsp;&nbsp;Created by <a href = "https://github.com/karthikreddy552" > Karthik reddy </a> </span><br><hr>
-
                                             pages overview
                                             
                                             
