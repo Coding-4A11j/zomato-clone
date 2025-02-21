@@ -118,11 +118,6 @@ At the bottom of the footer, we can find different links like about us, privacy 
 
 
                         ⭐Team_Members:⭐
-
-<a href="https://github.com/AnkitRana26">Ankit rana</a> <br/>
-<a href="https://github.com/karthikreddy552">Karthik reddy</a> <br/>
-<a href="https://github.com/yug0231">Yugal nemade</a> <br/>
-<a href="https://github.com/Dheeraj-2205">Dheeraj joshi</a> <br/>
-<a href="https://github.com/Rajatsinha05">Rajat sinha</a> <br/>
+only me AAJAD-CHOUDHARY 
 
 
